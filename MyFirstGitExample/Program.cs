@@ -10,6 +10,7 @@ namespace MyFirstGitExample
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("helow worldiiiiiii");
         }
     }
 }
